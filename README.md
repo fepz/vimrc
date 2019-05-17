@@ -1,2 +1,3 @@
 # vimrc
-Vim configuration
+Vim configuration with VimPlug.
+
